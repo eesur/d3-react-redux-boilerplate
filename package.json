@@ -2,6 +2,7 @@
   "name": "react-d3-redux",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://eesur.github.io/d3-react-redux-boilerplate",
   "dependencies": {
     "@vx/axis": "0.0.146",
     "@vx/group": "0.0.143",
@@ -22,7 +23,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "homepage": "https://eesur.github.io/d3-react-redux-boilerplate",
     "deploy" : "npm run build&&gh-pages -d build"
   },
   "devDependencies": {
