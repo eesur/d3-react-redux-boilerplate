@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate-v2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@vx/axis": "0.0.146",
+    "@vx/group": "0.0.143",
+    "@vx/scale": "0.0.143",
+    "@vx/shape": "0.0.146",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.0.17",
+    "rebass": "^1.0.4",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
