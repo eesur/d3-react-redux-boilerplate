@@ -76,7 +76,7 @@ All the components are stateless and updates are handles via redux actions (as p
 
 ![screen shot 2017-11-08 at 17 04 37](https://user-images.githubusercontent.com/1597761/32562605-fa7c156a-c4a6-11e7-9e45-f58e306b8427.png)
 
-View build: https://eesur.github.io/d3-react-redux-boilerplate/build
+View build: https://eesur.github.io/d3-react-redux-boilerplate/
 
 -------------------------
 
